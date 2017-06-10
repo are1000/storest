@@ -1,0 +1,26 @@
+{
+  "name": "storest",
+  "version": "0.1.0",
+  "description": "Simple key-value store",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "testest test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/are1000/storest.git"
+  },
+  "keywords": [
+    "store",
+    "key-value"
+  ],
+  "author": "Artur Are Wojciechowski <are_are_@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/are1000/storest/issues"
+  },
+  "homepage": "https://github.com/are1000/storest#readme",
+  "devDependencies": {
+    "testest": "^0.1.6"
+  }
+}
